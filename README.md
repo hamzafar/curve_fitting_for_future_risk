@@ -5,7 +5,7 @@ The current state of machine is evovlued through petroleum standard; which deter
 
 We have proposed a solution to determine Future Risk. That's build on Regression model. The typical idea is that normalized date to continous values and use it as independent variable of the equation and use respective values risk as dependant variable. We have used Quardatric form for Regression model.
 
-The detail description with code can be seen at the link:
+The detail description with code can be seen at the link [Proposed Solution](https://github.com/hamzafar/curve_fitting_for_future_risk/blob/master/Quadratic%20Regression%20%26%20Forecasting/Quadratic%20Regression%20%26%20Forecasting.md)
 
 
 
